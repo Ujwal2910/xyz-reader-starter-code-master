@@ -67,12 +67,11 @@
     <android.support.design.widget.FloatingActionButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/white"
         app:layout_anchor="@id/appBar"
         android:id="@+id/btnSimpleSnackbar"
         android:src="@drawable/ic_add_black_96dp"
         app:layout_anchorGravity="bottom|end"
-        android:layout_marginRight="8dp"/>
+        android:layout_marginRight="@dimen/fab_margin"/>
 
 
 </android.support.design.widget.CoordinatorLayout>
