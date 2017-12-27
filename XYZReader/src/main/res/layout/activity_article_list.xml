@@ -16,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/collaspsingToolBar"
-            app:contentScrim="@color/grey_900"
+            app:contentScrim="@color/blue_grey_500"
             app:collapsedTitleTextAppearance="@android:color/transparent"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
